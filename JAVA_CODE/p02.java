@@ -1,5 +1,5 @@
 import java.util.Scanner ;
-class p2{
+class p02{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         String n = input.nextLine();
@@ -7,3 +7,4 @@ class p2{
         input.close();
     }
 }
+
