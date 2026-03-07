@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class p6{
+class p06{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         int n = input.nextInt();
@@ -9,4 +9,5 @@ class p6{
             System.out.println(i);
         }
     }
+
 }
