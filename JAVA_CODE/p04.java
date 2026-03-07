@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class p4{
+class p04{
     public static void main(String[] args){
         int[] value = new int[3];
         Scanner input = new Scanner(System.in);
@@ -11,3 +11,4 @@ class p4{
         input.close();
     }
 }
+
