@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class p9 {
+class p09 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int n = input.nextInt();
@@ -13,5 +13,6 @@ class p9 {
         System.out.println(sum);
         input.close();
     }
+
 
 }
