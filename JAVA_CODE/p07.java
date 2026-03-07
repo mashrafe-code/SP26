@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class p7{
+class p07{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         int n = input.nextInt();
@@ -11,4 +11,5 @@ class p7{
         }
         input.close();
     }
+
 }
