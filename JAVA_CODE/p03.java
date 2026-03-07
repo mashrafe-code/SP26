@@ -1,6 +1,6 @@
 import java.util.Scanner ;
 
-class p3{
+class p03{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
         int i = input.nextInt();
@@ -9,3 +9,4 @@ class p3{
         input.close();
     }
 }
+
