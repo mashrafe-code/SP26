@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class p8{
+class p08{
     public static void main(String[] args){
         Scanner input = new Scanner(System.in);
 
@@ -13,4 +13,5 @@ class p8{
         }
         System.out.println(sum);
     }
+
 }
