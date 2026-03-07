@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class p5{
+class p05{
     public static void main(String[] args){
         
         Scanner input = new Scanner(System.in);
@@ -18,3 +18,4 @@ class p5{
         else if(s.equals("/")) System.out.println(val1 / val2);
     }
 }
+
