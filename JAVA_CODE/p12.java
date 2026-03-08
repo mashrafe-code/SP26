@@ -15,7 +15,8 @@ public class p12 {
                 small = numbers[i];
             }
         }
-        System.out.print(mx);
+        System.out.print(small);
         input.close();
     }
 }
+
