@@ -7,13 +7,15 @@ public class p13 {
 
         int[] numbers = new int[5];
 
-        int ans = 0;
+        double ans = 0;
         for (int i = 0 ; i < 5 ; i++)
         {
             numbers[i] = input.nextInt();
             ans+=numbers[i];
         }
+        ans = ans/5;
         System.out.print(ans);
         input.close();
     }
 }
+
